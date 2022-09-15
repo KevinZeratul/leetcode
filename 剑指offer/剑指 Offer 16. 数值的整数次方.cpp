@@ -1,5 +1,6 @@
 class Solution {
 public:
+	// 快速幂正负数完整版
     double myPow(double x, int n) {
         double ans = 1.0;
         while(n){
